@@ -40,7 +40,6 @@ This repository enables conceptual and analytical transparency rather than compu
 
 - Review the anonymized interview segments provided in the dataset
 - Examine the code list (Japanese and English labels) and code descriptions
-- Inspect the mapping between data segments and assigned codes
 - Review how codes are grouped into themes and categories
 - Compare thematic structures across the two case farms
 
