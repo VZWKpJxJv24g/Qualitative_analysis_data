@@ -1,5 +1,5 @@
 
-### Note for Peer Review
+## Note for Peer Review
 
 This repository is made publicly available in anonymized form for the purpose of double-blind peer review.
 All author-identifying information has been removed and will be added upon publication.
