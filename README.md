@@ -1,3 +1,10 @@
+
+### Note for Peer Review
+
+This repository is made publicly available in anonymized form for the purpose of double-blind peer review.
+All author-identifying information has been removed and will be added upon publication.
+
+
 ## Project Overview
 
 This project examines how labour-oriented social farming can create inclusive work environments for people with severe disabilities (PwDs). Based on qualitative case studies of two Japanese social farms, it analyzes staff attitudes and practices that support PwDs’ meaningful participation in agricultural work. Using participant observation and semi-structured interviews with 14 farm staff members, followed by inductive thematic analysis, the study identifies strategies that foster teamwork, professionalism, a sense of belonging, and long-term vocational engagement. By focusing on labour-oriented social farming, an underexplored area in the literature, this project contributes empirical insights into inclusive, strengths-based work practices for PwDs.
