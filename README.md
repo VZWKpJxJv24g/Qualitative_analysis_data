@@ -1,9 +1,14 @@
 
-## Note for Peer Review
+## About this dataset
 
-This repository is made publicly available in anonymized form for the purpose of double-blind peer review.
-All author-identifying information has been removed and will be added upon publication.
+This repository contains anonymized qualitative data used in the following peer-reviewed publication.
+**Article title**: Inclusive labour-oriented social farming involving people with disabilities  
+**Authors**: Akane Bessho, Akiko Iida, Keisuke Sakamoto, Makoto Yokohari  
+**Journal**: Humanities and Social Sciences Communications  
+**DOI**: https://doi.org/10.1057/s41599-026-07647-5  
 
+The data were anonymized prior to publication to protect the privacy of participants.  
+They are shared here to support transparency, reproducibility, and further research.
 
 ## Project Overview
 
